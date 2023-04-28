@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://ileccese.github.io/csb-3r6e5x/static/css/main.fc5c2c69.css",
-    "main.js": "https://ileccese.github.io/csb-3r6e5x/static/js/main.507f7e35.js",
+    "main.css": "https://ileccese.github.io/csb-3r6e5x/static/css/main.537a9afd.css",
+    "main.js": "https://ileccese.github.io/csb-3r6e5x/static/js/main.50720e90.js",
     "index.html": "https://ileccese.github.io/csb-3r6e5x/index.html",
-    "main.fc5c2c69.css.map": "https://ileccese.github.io/csb-3r6e5x/static/css/main.fc5c2c69.css.map",
-    "main.507f7e35.js.map": "https://ileccese.github.io/csb-3r6e5x/static/js/main.507f7e35.js.map"
+    "main.537a9afd.css.map": "https://ileccese.github.io/csb-3r6e5x/static/css/main.537a9afd.css.map",
+    "main.50720e90.js.map": "https://ileccese.github.io/csb-3r6e5x/static/js/main.50720e90.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5c2c69.css",
-    "static/js/main.507f7e35.js"
+    "static/css/main.537a9afd.css",
+    "static/js/main.50720e90.js"
   ]
 }
